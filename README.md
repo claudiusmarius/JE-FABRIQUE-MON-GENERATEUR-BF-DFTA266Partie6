@@ -165,8 +165,6 @@ Logiciels
 
 KiCad -- schémas et PCB
 
-LTspice -- simulations
-
 Arduino IDE -- programmation
 
 Contenu du dépôt
