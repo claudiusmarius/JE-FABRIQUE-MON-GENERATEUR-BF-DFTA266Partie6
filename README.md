@@ -30,9 +30,12 @@ Génération DDS
 
 Le signal est produit par l'AD9833, commandé par le Seeeduino XIAO.
 
-Le XIAO assure notamment : - la programmation de la fréquence ; - la
-sélection de la forme d'onde ; - la gestion des boutons ; - la gestion
-de l'afficheur OLED.
+Le XIAO assure notamment : 
+- la programmation de la fréquence ;
+- la sélection de la forme d'onde ;
+- la gestion des boutons ;
+- la gestion de l'afficheur OLED.
+   
 
 Gestion des modes
 
