@@ -48,9 +48,11 @@ Traitement du signal
 Le signal DDS est traité sur une carte analogique comprenant notamment
 des NE5532 et un LT1006.
 
-Cette partie assure : - l'adaptation du niveau ; - le réglage de
-l'amplitude ; - le réglage de l'offset ; - le traitement nécessaire
-avant l'étage de sortie.
+Cette partie assure : 
+- l'adaptation du niveau ;
+- le réglage del'amplitude ;
+- le réglage de l'offset ;
+- le traitement nécessaire avant l'étage de sortie.
 
 Étage de sortie
 
