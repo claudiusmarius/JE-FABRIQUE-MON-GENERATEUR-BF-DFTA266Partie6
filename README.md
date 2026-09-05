@@ -16,7 +16,7 @@ Triangle
 
 Rectangle
 
-La fréquence est sélectionnée par plages puis ajustée par deux boutons
+La fréquence est sélectionnée par plages puis ajustée par appui sur deux boutons
 poussoirs. Un afficheur OLED indique la fréquence et la forme d'onde
 sélectionnée.
 
