@@ -132,26 +132,6 @@ concernée.
 Consulter impérativement les erratums avant toute reproduction d'une
 carte.
 
-Documentation
-
-La documentation technique présente notamment :
-
-Introduction
-
-Générateur DDS et réglages
-
-Traitement du signal : amplitudes et offsets
-
-Étage de sortie push-pull
-
-Alimentation 24 V
-
-Alimentation symétrique avec zéro virtuel
-
-Erratums et corrections PCB
-
-Elle est complétée par les schémas, fichiers PCB, photographies et
-documents associés présents dans ce dépôt.
 
 Vidéos
 
@@ -161,11 +141,6 @@ Générateur BF DDS.
 Les liens vers les différentes vidéos peuvent être ajoutés dans cette
 section.
 
-Logiciels
-
-KiCad -- schémas et PCB
-
-Arduino IDE -- programmation
 
 Contenu du dépôt
 
@@ -199,6 +174,8 @@ d'autres passionnés d'étudier ou de reproduire le projet.
 Avant toute reproduction, vérifier les schémas, les valeurs des
 composants et les erratums correspondant à la révision du PCB
 utilisée.
+
+Contactez moi en cas de doute
 
 Auteur
 
