@@ -2,6 +2,9 @@
 
 Générateur BF DDS -- AD9833 / Seeeduino XIAO / ATtiny85
 
+Vidéo YouTube : https://youtu.be/ANECuOo78Ss
+
+
 Présentation
 
 Ce projet est la réalisation d'un générateur de fonctions basse
